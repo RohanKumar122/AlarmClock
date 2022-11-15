@@ -31,8 +31,6 @@ function clock() {
     period.innerHTML =ampm;
 
     (s<10) ? ("0"+s) : (s);
-
-    // hours.innerHTML =h;
 };
 
 setInterval(clock,1000);

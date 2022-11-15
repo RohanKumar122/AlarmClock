@@ -1,14 +1,12 @@
 .well{
     background-color: rgb(253, 223, 183);
-    padding: 10rem;
+    padding: 10rem 10rem 10rem 10rem ;
     align-items: center;
+
 
 }
 .digital-clock{
-
-    /* border: solid red 2px; */
     text-align: center;
-  
     
 }
 
@@ -17,16 +15,6 @@
     font-size: 5vw;
     font-weight: 60rem;
 }
-
-#selectButton{
-    margin-top: 30rem;
-    padding-top: 3rem;
-}
-/* @media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
-    body {
-     background: #ccc;
-   }
- } */
 
 @media(max-width:998px){
     html{

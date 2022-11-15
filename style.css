@@ -1,6 +1,8 @@
 .well{
     background-color: rgb(253, 223, 183);
-    padding: 100px;
+    padding: 10rem;
+    align-items: center;
+
 }
 .digital-clock{
 
@@ -11,7 +13,29 @@
 }
 
 .clock{
-    padding: 0 10px;
-    font-size: 3em;
-    font-weight: 600px;
+    padding: 0 1rem ;
+    font-size: 5vw;
+    font-weight: 60rem;
 }
+
+#selectButton{
+    margin-top: 30rem;
+    padding-top: 3rem;
+}
+/* @media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+    body {
+     background: #ccc;
+   }
+ } */
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+
+ @media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+ }

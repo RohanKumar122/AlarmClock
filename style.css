@@ -1,0 +1,17 @@
+.well{
+    background-color: rgb(253, 223, 183);
+    padding: 100px;
+}
+.digital-clock{
+
+    /* border: solid red 2px; */
+    text-align: center;
+  
+    
+}
+
+.clock{
+    padding: 0 10px;
+    font-size: 3em;
+    font-weight: 600px;
+}
